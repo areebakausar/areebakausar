@@ -8,7 +8,6 @@
 <img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg"> <br> 🤪 <b> About ME </b>: I am a Questbridge Scholar and second-year Student at University of Virginia. Here I am studying Computer Science in School of Engineering, developing MentView under UVA Entrepreneurship Group and researching about Sustainable Commerce at McIntire School of Commerce.
 
 ⚡ <b> Quick (Fun?) Facts </b>: I dropped out of High School in 8th grade to homeschool myself. I learnt English at age 13, moved to United States at age 16 and wrote my first line of code at age 19. Phew!
-
 <br>
 <br>
 <h2> Tech Stack: (always growing) </h2> 
