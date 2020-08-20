@@ -99,10 +99,10 @@ Environments:
 
 <p>
 <img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/ForestRunQuick.gif">
-<b> Forest Run </b>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
+<b> Forest Run - Multiplayer Python Game - Fall 2019 </b>
+<p> Try and collect as many Gems as you can before the Timer Runs Out!  </p>
+<p> Avoid the fire and Bushes. Both players get three lives </p>
+<p> Check it out <a href="https://github.com/areebakausar/ForestRun"> here </a>  </p>
 </p>
 <br>
 
