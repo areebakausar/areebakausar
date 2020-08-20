@@ -7,7 +7,7 @@
 ⚡ <b> Quick (Fun?) Facts </b>: I dropped out of High School in 8th grade to homeschool myself. I learnt English at age 13, moved to United States at age 16 and wrote my first line of code at age 19. Phew!
 <br>
 
-<h2> (always growing) Tech Stack: </h2> 
+<h2> Tech Stack: (always growing) </h2> 
 <img align="right" width="120" height="120" src="https://i.imgur.com/VbOurdi.gif"> 
 Software: 
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"></code>
@@ -70,8 +70,9 @@ Environments:
  
 <h2> Let's Collaborate: </h2> 
 
-<img align="right" width="150" height="150" src="https://i.imgur.com/DSgUZt6.png">  <p> lorem ipsum  </p>
-<p>  </p>
+<img align="right" width="150" height="150" src="https://i.imgur.com/DSgUZt6.png">  <p> Whether we work with same technologies or different ones, I am always Down-to-Collaborate, and <b> learn new skills </b>. Please feel free to reach out and connect: </p>
+<p> <ul> <li> Connect with me on <a href="https://www.linkedin.com/in/areebakausar/"> Linkedin </a> </li> </ul></p>
+ 
  
 <!--
 **areebakausar/areebakausar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
