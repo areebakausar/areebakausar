@@ -47,38 +47,64 @@ Environments:
 <img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
 <b> Research For Sustainable Commerce </b>
 <p> lorem ipsum </p>
+<p> lorem ipsum </p>
+<p> lorem ipsum </p>
 </p>
 <br> 
 
 <p>
-<img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
+<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
 <b> Sana Dairy Start Up </b>
 <p> lorem ipsum </p>
+<p> lorem ipsum </p>
+<p> lorem ipsum </p>
 </p>
+<br>
 
-
-<img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
+<p>
+<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
 <b>MentView </b>
 <p> lorem ipsum </p>
+<p> lorem ipsum </p>
+<p> lorem ipsum </p>
+</p>
+<br>
 
+<p>
 <img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b> S for Store </b>
 <p> lorem ipsum </p>
+<p> lorem ipsum </p>
+<p> lorem ipsum </p>
+</p>
+<br>
 
-
+<p>
 <img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b> Word Dash </b>
 <p> lorem ipsum </p>
- 
+<p> lorem ipsum </p>
+<p> lorem ipsum </p>
+</p>
+<br>
 
+<p>
 <img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b> CS Friend </b>
 <p> lorem ipsum </p>
+<p> lorem ipsum </p>
+<p> lorem ipsum </p>
+</p>
+<br>
 
+<p>
 <img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b> Forest Run </b>
 <p> lorem ipsum </p>
- <br>
+<p> lorem ipsum </p>
+<p> lorem ipsum </p>
+</p>
+<br>
 
 <h2> Let's Collaborate: </h2> 
 
