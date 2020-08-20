@@ -38,26 +38,33 @@ Environments:
 <br>
 
 <h2> Recent Work and Projects: </h2> 
-<p> Here is a brisk look into some of the work I do with a link to my <b> <a href="http://github.com/areebakausar/areebakausar/blob/master/AreebaKausar_Fall2020.pdfl"> RESUME </a> 👩🏽 </p>
+<p> Here is a brisk look into some of the work I do with a link to my <b> <a href="http://github.com/areebakausar/areebakausar/blob/master/AreebaKausar_Fall2020.pdfl"> RESUME </a> 👩🏽 </b> </p>
 
+<img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b> Research For Sustainable Commerce </b>
 <p> lorem ipsum </p>
 
+<img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b> Sana Dairy Start Up </b>
 <p> lorem ipsum </p>
 
+<img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b>MentView </b>
 <p> lorem ipsum </p>
  
+ <img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b> S for Store </b>
 <p> lorem ipsum </p>
 
+<img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b> Word Dash </b>
 <p> lorem ipsum </p>
  
+ <img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b> CS Friend </b>
 <p> lorem ipsum </p>
  
+ <img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b> Forest Run </b>
 <p> lorem ipsum </p>
  
