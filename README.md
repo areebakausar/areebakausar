@@ -71,7 +71,7 @@ Environments:
 <br>
 
 <p>
-<img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/CSFriend.gif">
+<img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/CSFriend-demo.gif">
 <b> CS Friend –Java Multithread Printer - Spring 2020  </b>
 <p> Got a Nerd Friend who deserves more than a BASIC greeting card? This is the Program for you! Write your messages in two .txt files and let this program
 utilize locks and conditions to concurrently print all your multi-file greetings in colsole-based cards </p>
