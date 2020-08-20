@@ -72,7 +72,8 @@ Environments:
 
 <img align="right" width="150" height="150" src="https://i.imgur.com/DSgUZt6.png">  <p> Whether we work with same technologies or different ones, I am always Down-to-Collaborate, and <b> learn new skills </b>. Please feel free to reach out and connect: </p>
 <p> <ul>  <li> Send me an <a href="areebakausar@ymail.com"> Email </a> </li> 
- <li> Connect with me on <a href="https://www.linkedin.com/in/areebakausar/"> Linkedin </a> </li> </ul></p>
+ <li> Connect with me on <a href="https://www.linkedin.com/in/areebakausar/"> Linkedin </a> </li>  
+ <li> Feel free to build on any of my repositories down below 👇🏽 </li></ul></p>
  
  
 <!--
