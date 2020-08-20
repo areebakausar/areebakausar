@@ -1,6 +1,6 @@
 ### Hi there, 👋🏽
 
-![Introductory Image](https://imgur.com/a/zpmYqHs)
+![Introductory Image](https://i.imgur.com/cxv6yF0.png)
 
 
 <!--
