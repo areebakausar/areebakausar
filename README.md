@@ -62,7 +62,7 @@ Environments:
 <br>
 
 <p>
-<img align="left" width="150" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/Worddash-quick.gif">
+<img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/Worddash-quick.gif">
 <b> Word Dash – C++ Word Puzzle Solver - Summer 2020 </b>
 <p> A computer program with a ferocious ability to solve word puzzles. It will take mere milliseconds to find thousands of words in letter grids as gigantic as 300x300 </p>
 <p> Check it here out <a href="https://github.com/areebakausar/WordDash"> here </a>  </p>
