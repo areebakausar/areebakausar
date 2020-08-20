@@ -44,11 +44,10 @@ Environments:
 <p> Here is a brisk look into some of the work I do with a link to my <b> <a href="http://github.com/areebakausar/areebakausar/blob/master/AreebaKausar_Fall2020.pdfl"> RESUME </a> 👩🏽 </b> </p>
 
 <p>
-<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
-<b> Sana Dairy Start Up </b>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
+<img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/website.gif">
+<b> Sana Dairy Amdan Farm - Web Developer - Summer 2020 </b>
+<p> Winner of Pakistan Government Impact Challenge for Social Start Ups, Sana Dairy Farm wants to create an impact in the rural areas of NorthWestern Pakistna. And a strong website and web presence is the first step towards that goal </p>
+<p> Check out the LIVE WEBSITE <a href="http://sanadairyfarm.com/site/"> here </a>  </p>
 </p>
 <br>
 
@@ -65,7 +64,7 @@ Environments:
 <img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/Worddash-quick.gif">
 <b> Word Dash – C++ Word Puzzle Solver - Summer 2020 </b>
 <p> A computer program with a ferocious ability to solve word puzzles. It will take mere milliseconds to find thousands of words in letter grids as gigantic as 300x300 </p>
-<p> Check it here out <a href="https://github.com/areebakausar/WordDash"> here </a>  </p>
+<p> Check it out <a href="https://github.com/areebakausar/WordDash"> here </a>  </p>
 </p>
 <br>
 
@@ -74,7 +73,7 @@ Environments:
 <b> CS Friend –Java Multithread Printer - Spring 2020  </b>
 <p> Got a Nerd Friend who deserves more than a BASIC greeting card? This is the Program for you! Write your messages in two .txt files and let this program
 utilize locks and conditions to concurrently print all your multi-file greetings in colsole-based cards </p>
-<p> Check it here out <a href="https://github.com/areebakausar/CS-Friend"> here </a>  </p>
+<p> Check it out <a href="https://github.com/areebakausar/CS-Friend"> here </a>  </p>
 </p>
 <br>
 
@@ -82,7 +81,7 @@ utilize locks and conditions to concurrently print all your multi-file greetings
 <img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/ForestRunQuick.gif">
 <b> Forest Run - Multiplayer Python Game - Fall 2019 </b>
 <p> Try and collect as many Gems as you can before the Timer Runs Out! Avoid the fire and Bushes. Remember, both players only get three lives </p>
-<p> Check it here out <a href="https://github.com/areebakausar/ForestRun"> here </a>  </p>
+<p> Check it out <a href="https://github.com/areebakausar/ForestRun"> here </a>  </p>
 </p>
 <br>
 
