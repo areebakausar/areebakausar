@@ -38,7 +38,7 @@ Environments:
 <br>
 
 <h2> Recent Work and Projects: </h2> 
-<p> Here is a brisk look into some of the work I do. And here is my [ PDF Resume ](https://github.com/areebakausar/areebakausar/blob/master/AreebaKausar_Fall2020.pdf) 👩🏽 </p>
+<p> Here is a brisk look into some of the work I do with a link to my <b> <a href="http://github.com/areebakausar/areebakausar/blob/master/AreebaKausar_Fall2020.pdfl"> RESUME </a> 👩🏽 </p>
 
 <b> Research For Sustainable Commerce </b>
 <p> lorem ipsum </p>
