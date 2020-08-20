@@ -71,7 +71,7 @@ Environments:
 <br>
 
 <p>
-<img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
+<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
 <b> S for Store </b>
 <p> lorem ipsum </p>
 <p> lorem ipsum </p>
@@ -80,7 +80,7 @@ Environments:
 <br>
 
 <p>
-<img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
+<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
 <b> Word Dash </b>
 <p> lorem ipsum </p>
 <p> lorem ipsum </p>
@@ -89,7 +89,7 @@ Environments:
 <br>
 
 <p>
-<img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
+<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
 <b> CS Friend </b>
 <p> lorem ipsum </p>
 <p> lorem ipsum </p>
@@ -98,7 +98,7 @@ Environments:
 <br>
 
 <p>
-<img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
+<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
 <b> Forest Run </b>
 <p> lorem ipsum </p>
 <p> lorem ipsum </p>
