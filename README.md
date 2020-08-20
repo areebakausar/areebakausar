@@ -9,7 +9,7 @@
 <br>
 
 <h2> Languages and Tools Stack: </h2> 
-
+<img align="right" width="150" height="150" src="https://i.imgur.com/VbOurdi.gif"> 
 Software: 
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"></code>
 <code><img height="35" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png"></code>
@@ -36,7 +36,6 @@ Environments:
 <code><img height="35" src="https://www.clipartkey.com/mpngs/m/38-381549_eclipse-ide-icon-png-transparent-png-png-download.png"></code>
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original-wordmark.svg"></code>
-
 <br>
 
 <h2> Recent Work and Projects: </h2> 
