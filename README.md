@@ -15,23 +15,35 @@
 <img align="right" width="150" height="150" src="https://i.imgur.com/VbOurdi.gif"> 
 
 <h2> Recent Work and Projects: </h2> 
-
-<p> lorem ipsum </p>
-
+<p> lorem ipsum  </p>
+<p>  Download a PDF of my Resume </p>
 
 <b> Research For Sustainable Commerce </b>
-
-
 <p> lorem ipsum </p>
 
 <b> Sana Dairy Start Up <b>
- 
 <p> lorem ipsum </p>
 
- <b> 
+<b>MentView <b>
+<p> lorem ipsum </p>
+ 
+<b> S for Store <b>
+<p> lorem ipsum </p>
 
+<b> Word Dash <b>
+<p> lorem ipsum </p>
+ 
+ <b> CS Friend <b>
+<p> lorem ipsum </p>
+ 
+ <b> Forest Run <b>
+<p> lorem ipsum </p>
+ 
+ <h2> Let's Collaborate: </h2> 
 
-
+<img align="right" width="150" height="150" src="https://i.imgur.com/DSgUZt6.png">  <p> lorem ipsum  </p>
+<p>  </p>
+ 
 <!--
 **areebakausar/areebakausar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
