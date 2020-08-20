@@ -1,12 +1,11 @@
 ### Hi there, 👋🏽
 
 ![Introductory Image](https://i.imgur.com/cxv6yF0.png)
-
+<br>
 <img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg"> 🤪 <b> About ME </b>: I am a Questbridge Scholar and second-year Student at University of Virginia. Here I am studying Computer Science in School of Engineering, developing MentView under UVA Entrepreneurship Group and researching about Sustainable Commerce at McIntire School of Commerce.
-
 ⚡ <b> Quick (Fun?) Facts </b>: I dropped out of High School in 8th grade to homeschool myself. I learnt English at age 13, moved to United States at age 16 and wrote my first line of code at age 19. Phew!
 <br>
-
+<br>
 <h2> Tech Stack: (always growing) </h2> 
 <img align="right" width="120" height="120" src="https://i.imgur.com/VbOurdi.gif"> 
 Software: 
@@ -71,7 +70,7 @@ Environments:
 <h2> Let's Collaborate: </h2> 
 
 <img align="right" width="150" height="150" src="https://i.imgur.com/DSgUZt6.png">  <p> Whether we work with same technologies or different ones, I am always Down-to-Collaborate, and <b> learn new skills </b>. Please feel free to reach out and connect: </p>
-<p> <ul>  <li> Send me an <a href="areebakausar@ymail.com"> Email </a> </li> 
+<p> <ul>  <li> Send me an <a href="mailto:areebakausar@ymail.com"> Email </a> </li> 
  <li> Connect with me on <a href="https://www.linkedin.com/in/areebakausar/"> Linkedin </a> </li>  
  <li> Feel free to build on any of my repositories down below 👇🏽 </li></ul></p>
  
