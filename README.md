@@ -7,7 +7,7 @@
 ⚡ <b> Quick (Fun?) Facts </b>: I dropped out of High School in 8th grade to homeschool myself. I learnt English at age 13, moved to United States at age 16 and wrote my first line of code at age 19. Phew!
 <br>
 
-<h2> Languages and Tools Stack: </h2> 
+<h2> (always growing) Tech Stack: </h2> 
 <img align="right" width="120" height="120" src="https://i.imgur.com/VbOurdi.gif"> 
 Software: 
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"></code>
@@ -55,13 +55,13 @@ Environments:
 <b> Word Dash </b>
 <p> lorem ipsum </p>
  
- <b> CS Friend </b>
+<b> CS Friend </b>
 <p> lorem ipsum </p>
  
- <b> Forest Run </b>
+<b> Forest Run </b>
 <p> lorem ipsum </p>
  
- <h2> Let's Collaborate: </h2> 
+<h2> Let's Collaborate: </h2> 
 
 <img align="right" width="150" height="150" src="https://i.imgur.com/DSgUZt6.png">  <p> lorem ipsum  </p>
 <p>  </p>
