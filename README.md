@@ -15,28 +15,27 @@
 <img align="right" width="150" height="150" src="https://i.imgur.com/VbOurdi.gif"> 
 
 <h2> Recent Work and Projects: </h2> 
-<p> lorem ipsum  </p>
-<p>  Download a PDF of my Resume </p>
+<p> Download a PDF of my Resume </p>
 
 <b> Research For Sustainable Commerce </b>
 <p> lorem ipsum </p>
 
-<b> Sana Dairy Start Up <b>
+<b> Sana Dairy Start Up </b>
 <p> lorem ipsum </p>
 
-<b>MentView <b>
+<b>MentView </b>
 <p> lorem ipsum </p>
  
-<b> S for Store <b>
+<b> S for Store </b>
 <p> lorem ipsum </p>
 
-<b> Word Dash <b>
+<b> Word Dash </b>
 <p> lorem ipsum </p>
  
- <b> CS Friend <b>
+ <b> CS Friend </b>
 <p> lorem ipsum </p>
  
- <b> Forest Run <b>
+ <b> Forest Run </b>
 <p> lorem ipsum </p>
  
  <h2> Let's Collaborate: </h2> 
