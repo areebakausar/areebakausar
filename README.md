@@ -10,9 +10,22 @@
 
 <h2> Languages and Tools Stack: </h2> 
 
+Software: 
+<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"></code>
+<code><img height="35" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png"></code>
+<code><img height="35" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
+<br>
+Web Development: 
+<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"></code>
+<code><img height="35" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png"></code>
+<code><img height="35" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
+<br>
+Environments: 
+<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg"></code>
+<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
+<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg"></code>
+<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain-wordmark.svg"></code>
 
-
-<img align="right" width="150" height="150" src="https://i.imgur.com/VbOurdi.gif"> 
 
 <h2> Recent Work and Projects: </h2> 
 <p> Download a PDF of my Resume </p>
