@@ -7,7 +7,7 @@
 
 <img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg"> <br> 🤪 <b> About ME </b>: I am a Questbridge Scholar and second-year Student at University of Virginia. Here I am studying Computer Science in School of Engineering, developing MentView under UVA Entrepreneurship Group and researching about Sustainable Commerce at McIntire School of Commerce.
 
-⚡ <b> Quick (Fun?) Facts </b>: I dropped out of High School in 8th grade to homeschool myself. I learnt English at age 13, moved to United States at age 16 and wrote my first line of code at age 19. Phew!
+⚡ <b> Quick (Fun?) Facts </b>: I dropped out of High School in 8th grade to homeschool myself. I learnt English at age 13, moved to United States at age 18 and wrote my first line of code at age 20. Phew!
 <br>
 <br>
 <h2> Tech Stack: (always growing) </h2> 
@@ -62,11 +62,10 @@ Environments:
 <br>
 
 <p>
-<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
-<b> Word Dash </b>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
+<img align="left" width="150" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/Worddash-quick.gif">
+<b> Word Dash – C++ Word Puzzle Solver - Summer 2020 </b>
+<p> A computer program with a ferocious ability to solve word puzzles. It will take mere milliseconds to find thousands of words in letter grids as gigantic as 300x300 </p>
+<p> Check it here out <a href="https://github.com/areebakausar/WordDash"> here </a>  </p>
 </p>
 <br>
 
