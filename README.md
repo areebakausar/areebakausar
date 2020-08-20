@@ -45,25 +45,7 @@ Environments:
 
 <p>
 <img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
-<b> Research For Sustainable Commerce </b>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
-</p>
-<br> 
-
-<p>
-<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
 <b> Sana Dairy Start Up </b>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
-</p>
-<br>
-
-<p>
-<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
-<b>MentView </b>
 <p> lorem ipsum </p>
 <p> lorem ipsum </p>
 <p> lorem ipsum </p>
@@ -89,10 +71,11 @@ Environments:
 <br>
 
 <p>
-<img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/ForestRunQuick.gif">
-<b> Forest Run - Multiplayer Python Game - Fall 2019 </b>
-<p> Try and collect as many Gems as you can before the Timer Runs Out! Avoid the fire and Bushes. Remember, both players only get three lives </p>
-<p> Check it here out <a href="https://github.com/areebakausar/ForestRun"> here </a>  </p>
+<img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/CSFriend.gif">
+<b> CS Friend –Java Multithread Printer - Spring 2020  </b>
+<p> Got a Nerd Friend who deserves more than a BASIC greeting card? This is the Program for you! Write your messages in two .txt files and let this program
+utilize locks and conditions to concurrently print all your multi-file greetings in colsole-based cards </p>
+<p> Check it here out <a href="https://github.com/areebakausar/CS-Friend"> here </a>  </p>
 </p>
 <br>
 
