@@ -46,17 +46,16 @@ Environments:
 <p>
 <img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/website.gif">
 <b> Sana Dairy Amdan Farm - Web Developer - Summer 2020 </b>
-<p> Winner of Pakistan Government Impact Challenge for Social Start Ups, Sana Dairy Farm wants to create an impact in the rural areas of NorthWestern Pakistna. And a strong website and web presence is the first step towards that goal </p>
+<p> Winner of Pakistan Government Impact Challenge for Social Start Ups, Sana Dairy Farm wants to create an impact in the rural areas of NorthWestern Pakistan. And a strong website and web presence is the first step towards that goal </p>
 <p> Check out the LIVE WEBSITE <a href="http://sanadairyfarm.com/site/"> here </a>  </p>
 </p>
 <br>
 
 <p>
-<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
-<b> S for Store </b>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
-<p> lorem ipsum </p>
+<img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/sforstore.gif">
+<b> SforStore – Multipage Full-Stack E-commerce Shopping Store – Summer 2020 </b>
+<p> Built with MERN Stack, this project will allow you to build your mini ecommerce store. Sign Up and Start shopping. Functionalities include: Landing Page, User Profiles, Shopping Carts, Product Upload, Inventory Management, PayPal Checkout;  </p>
+<p> Check out the repo <a href="https://github.com/areebakausar/SforStore"> here </a>  </p>
 </p>
 <br>
 
