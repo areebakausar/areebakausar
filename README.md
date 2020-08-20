@@ -43,16 +43,18 @@ Environments:
 <h2> Recent Work and Projects: </h2> 
 <p> Here is a brisk look into some of the work I do with a link to my <b> <a href="http://github.com/areebakausar/areebakausar/blob/master/AreebaKausar_Fall2020.pdfl"> RESUME </a> 👩🏽 </b> </p>
 
-
-<img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
+<p>
+<img align="left" width="150" height="150" src="https://i.imgur.com/jROAX34.jpg">
 <b> Research For Sustainable Commerce </b>
 <p> lorem ipsum </p>
+</p>
+<br> 
 
-
+<p>
 <img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
 <b> Sana Dairy Start Up </b>
 <p> lorem ipsum </p>
-
+</p>
 
 
 <img align="left" width="50" height="50" src="https://i.imgur.com/jROAX34.jpg">
