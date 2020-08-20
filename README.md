@@ -37,7 +37,6 @@ Environments:
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original-wordmark.svg"></code>
 <br>
-<br>
 
 <h2> Recent Work and Projects: </h2> 
 <p> Download a PDF of my Resume </p>
