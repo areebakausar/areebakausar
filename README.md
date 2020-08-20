@@ -9,13 +9,13 @@
 <br>
 
 <h2> Languages and Tools Stack: </h2> 
+<img align="right" width="120" height="120" src="https://i.imgur.com/VbOurdi.gif"> 
 Software: 
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"></code>
 <code><img height="35" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
 <code><img height="35" src="https://www.r-project.org/logo/Rlogo.svg"></code>
 <br>
-<img align="right" width="150" height="150" src="https://i.imgur.com/VbOurdi.gif"> 
 Web Development: 
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"></code>
@@ -36,6 +36,7 @@ Environments:
 <code><img height="35" src="https://www.clipartkey.com/mpngs/m/38-381549_eclipse-ide-icon-png-transparent-png-png-download.png"></code>
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original-wordmark.svg"></code>
+<br>
 <br>
 
 <h2> Recent Work and Projects: </h2> 
