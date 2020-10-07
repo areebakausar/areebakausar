@@ -54,7 +54,7 @@ Environments:
 <p>
 <img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/sforstore.gif">
 <b> SforStore – Multipage Full-Stack E-commerce Shopping Store – Summer 2020 </b>
-<p> Built with MERN Stack, this project will allow you to build your mini ecommerce store. Sign Up and Start shopping. Functionalities include: Landing Page, User Profiles, Shopping Carts, Product Upload, Inventory Management, PayPal Checkout;  </p>
+<p> Built with MERN Stack, this project allowed me to build my mini ecommerce store. Sign Up and Start shopping. Functionalities include: Landing Page, User Profiles, Shopping Carts, Product Upload, Inventory Management, PayPal Checkout;  </p>
 <p> Check out the repo <a href="https://github.com/areebakausar/SforStore"> here </a>  </p>
 </p>
 <br>
