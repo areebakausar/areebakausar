@@ -41,7 +41,7 @@ Environments:
 <br>
 <br>
 <h2> Recent Work and Projects: </h2> 
-<p> Here is a brisk look into some of the work I do with a link to my <b> <a href="https://github.com/areebakausar/areebakausar/blob/master/AreebaKausar_Fall2020.pdf"> RESUME </a> 👩🏽 </b> </p>
+<p> Here is a brisk look into some of the work I do with a link to my <b> <a href="https://github.com/areebakausar/areebakausar/blob/master/Areeba_Kausar_Resume.pdf"> RESUME </a> 👩🏽 </b> </p>
 
 <p>
 <img align="left" width="200" height="150" src="https://github.com/areebakausar/areebakausar/blob/master/demos/website.gif">
