@@ -13,7 +13,7 @@
 <h2> Tech Stack: (always growing) </h2> 
 <img align="right" width="120" height="120" src="https://i.imgur.com/VbOurdi.gif"> 
 Software: 
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css"></code>
+<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png"></code>
 <code><img height="35" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
 <code><img height="35" src="https://www.r-project.org/logo/Rlogo.svg"></code>
