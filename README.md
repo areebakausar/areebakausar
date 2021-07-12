@@ -19,12 +19,12 @@ Software:
 <code><img height="35" src="https://www.r-project.org/logo/Rlogo.svg"></code>
 <br>
 Web Development: 
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></code>
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="35" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png"></code>
+<code><img height="35" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png"></code>
+<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png"></code>
+<code><img height="35" src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png"></code>
+<code><img height="35" src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png"></code>
+<code><img height="35" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png"></code>
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"></code>
 <code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"></code>
