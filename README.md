@@ -26,17 +26,12 @@ Web Development:
 <code><img height="35" src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png"></code>
 <code><img height="35" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png"></code>
 <code><img height="35" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ"></code>
-<code><img height="35" src=https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
 <code><img height="35" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"></code>
 <br>
 Environments: 
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg"></code>
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg"></code>
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain-wordmark.svg"></code>
-<code><img height="35" src="https://www.clipartkey.com/mpngs/m/38-381549_eclipse-ide-icon-png-transparent-png-png-download.png"></code>
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg"></code>
-<code><img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original-wordmark.svg"></code>
+<code><img height="35" src="https://ih1.redbubble.net/image.738129642.6518/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg"></code>
+<code><img height="35" src="https://1000logos.net/wp-content/uploads/2020/08/Git-Logo.png"></code>
+<code><img height="35" src="https://cdn.freebiesupply.com/logos/large/2x/heroku-logo-png-transparent.png"></code>
 <br>
 <br>
 <h2> Recent Work and Projects: </h2> 
